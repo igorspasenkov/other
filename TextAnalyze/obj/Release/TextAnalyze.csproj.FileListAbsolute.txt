@@ -1,0 +1,9 @@
+D:\C#\TextAnalyze\TextAnalyze\bin\Release\TextAnalyze.exe
+D:\C#\TextAnalyze\TextAnalyze\bin\Release\TextAnalyze.pdb
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.csprojAssemblyReference.cache
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.Form1.resources
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.Properties.Resources.resources
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.csproj.GenerateResource.cache
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.csproj.CoreCompileInputs.cache
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.exe
+D:\C#\TextAnalyze\TextAnalyze\obj\Release\TextAnalyze.pdb
